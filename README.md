@@ -4,7 +4,7 @@
 
 About me:
 
-- 🔭 I’m currently working on BS degree on Computer Science
+- 🔭 I’m currently working on BS degree of Computer Science
 - 🌱 I’m currently learning NodeJS, Javascript, CSS, HTML, ...
 - 👯 I’m looking to collaborate on some cool project
 - 🤔 I’m looking for help with getting a job or internship
