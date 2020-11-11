@@ -5,7 +5,8 @@
 About me:
 
 - 🔭 I’m currently working on BS degree of Computer Science
-- 🌱 I’m currently learning NodeJS, Javascript, CSS, HTML, ...
+- 🌱 I write code in Java, Python, C++, Javascript, ...
+- 😎 Database in MySQL and MongoDB
 - 👯 I’m looking to collaborate on some cool project
 - 🤔 I’m looking for help with getting a job or internship
 - 💬 Ask me about How I met your mother. LoL
